@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+    box-sizing: border-box;
+}
+
+
+.bodyy{
+    background-image: url(https://wallpapercave.com/wp/wp2600403.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    color: azure;
+    position: relative;
+}
+
+.content h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.content{
+margin: 200px;
+position: absolute;
+}
+
+.content p{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.content h2{
+    margin: 20px;
+}
+
+hr{
+    margin: 30px;
+    margin-left: 3px;
+width: 190px;
+} 
+.content h2 {
+    margin-left: 60px;
+    font-size: 30px;
+}
+.tx h1{
+    margin-top: 20px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 4em;
+}
+
+.tx p{
+    width: 500px;
+    margin-top: -3em;
+    margin-left: 10em;
+    font-weight:bold;
+}
+.foot .tx h2{
+    margin-left: 40em;
+    color: rgb(170, 39, 6);
+}
+
+.foot .tx .p{
+    padding: 60px;
+    margin-left:56em ;
+    color: dimgrey;
+}
+
+.p1{
+   font-family: Arial, Helvetica, sans-serif;
+width: 300px;
+margin-left: 10em;
+
+}
+
+.p1 a{
+    color: rgb(45, 45, 236);
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hr2{
+    margin: 30px;
+    margin-left: 10em;
+width: 50px;
+}
